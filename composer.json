@@ -1,0 +1,15 @@
+{
+    "name": "jenya/learning.local",
+    "description": "learning project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jenya",
+            "email": "jenyaphphunter@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {"guzzlehttp/guzzle": ">7.0.x-dev",
+        "league/flysystem": "2.x-dev"}
+}
